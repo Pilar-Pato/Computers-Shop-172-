@@ -24,4 +24,9 @@ Listar la información de todos los computadores que tiene la tienda.
 Requisitos:
 
 Diagrama UML de clases
+
+
+![ULMComputers Shop drawio](https://github.com/user-attachments/assets/62a2929b-f7b3-43de-b86a-58db4e0fc060)
+
+
 Tests unitarios obligatorios (cobertura mínima 70%)
